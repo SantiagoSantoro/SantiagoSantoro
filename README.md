@@ -37,13 +37,6 @@ Puedes encontrarme en las siguientes redes sociales:
 
 ¡Estoy abierto a colaboraciones y nuevos proyectos! Si tienes alguna idea o proyecto en mente en el que podamos colaborar, no dudes en contactarme.
 
----
-[English]
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/SantiagoSantoro/SantiagoSantoro/blob/main/SantiagoSantoro.png" alt="Santiago Santoro - Fullstack Developer">
-</p>
 
 <!-- Personal Information -->
 # Hello! 👋
