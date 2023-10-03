@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="tu-imagen-o-banner.jpg" alt="Santiago Santoro - Desarrollador Fullstack">
+  <img src="https://github.com/SantiagoSantoro/SantiagoSantoro/blob/main/SantiagoSantoro.png" alt="Santiago Santoro - Desarrollador Fullstack">
 </p>
 
 <!-- Información personal -->
@@ -42,7 +42,7 @@ Puedes encontrarme en las siguientes redes sociales:
 
 <!-- Banner -->
 <p align="center">
-  <img src="your-image-or-banner.jpg" alt="Santiago Santoro - Fullstack Developer">
+  <img src="https://github.com/SantiagoSantoro/SantiagoSantoro/blob/main/SantiagoSantoro.png" alt="Santiago Santoro - Fullstack Developer">
 </p>
 
 <!-- Personal Information -->
