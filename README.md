@@ -6,7 +6,7 @@
 <!-- Información personal -->
 # ¡Hola! 👋
 
-Mi nombre es Santiago, tengo 35 años y soy de Rosario, Argentina. Soy un desarrollador fullstack en proceso, apasionado por la creación de aplicaciones web y el desarrollo de software.
+Mi nombre es Santiago, tengo 35 años y soy de Rosario, Argentina. Soy un desarrollador fullstack, apasionado por la creación de aplicaciones web y el desarrollo de software.
 
 <!-- Tecnologías -->
 ## Tecnologías que utilizo
@@ -27,6 +27,7 @@ Mi nombre es Santiago, tengo 35 años y soy de Rosario, Argentina. Soy un desarr
 - Firebase
 - Express
 - MongoDB
+- Nest Js
 
 <!-- Contacto -->
 ## ¿Cómo contactarme?
