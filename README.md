@@ -63,6 +63,7 @@ My name is Santiago, I'm 35 years old, and I'm from Rosario, Argentina. I'm a fu
 - Firebase
 - Express
 - MongoDB
+- Nest Js
 
 <!-- Contact -->
 ## How to Reach Me
